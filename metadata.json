@@ -1,0 +1,6 @@
+{
+  "name": "Student Project Logbook Tracker",
+  "description": "A web application for teachers to monitor student group activities and logbooks during a Yogurt Making Project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
